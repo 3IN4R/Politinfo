@@ -8,8 +8,8 @@ export default function NavBar(){
         <div className="Navi">
         <ul className='Navigation'>
     
-            <Link to='/home' className="Retardo">Home</Link>
-            <Link to='/info' className="Retardo">Sources</Link>
+            <Link to='/home' className="Navelem">Home</Link>
+            <Link to='/info' className="Navelem">Sources</Link>
     </ul>
         </div>
     )
