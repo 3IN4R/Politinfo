@@ -24,14 +24,14 @@
 
 /* Navbar */
 
-.Retardo{
+.Navelem{
   text-decoration: none;
   font-size: 1.5rem;
   color: rgb(255, 255, 255); ;
   padding: 1rem;
 }
 
-.Retardo:hover {
+.Navelem:hover {
   color: rgb(37, 37, 170);
 }
 
