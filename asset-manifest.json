@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Politinfo/static/css/main.df6cdaf1.css",
-    "main.js": "/Politinfo/static/js/main.7c46e721.js",
+    "main.css": "/Politinfo/static/css/main.4fd3fe18.css",
+    "main.js": "/Politinfo/static/js/main.ddc16117.js",
     "static/js/787.bc7d429a.chunk.js": "/Politinfo/static/js/787.bc7d429a.chunk.js",
     "static/media/pngegg.png": "/Politinfo/static/media/pngegg.ee1e83a66e9537bd8ce4.png",
     "static/media/us.jpg": "/Politinfo/static/media/us.9507e510b045c0410acd.jpg",
     "static/media/ukr.jpg": "/Politinfo/static/media/ukr.6f790c7d102fbbebde5e.jpg",
     "static/media/bg.jpg": "/Politinfo/static/media/bg.a164d7cc26880a884a53.jpg",
     "index.html": "/Politinfo/index.html",
-    "main.df6cdaf1.css.map": "/Politinfo/static/css/main.df6cdaf1.css.map",
-    "main.7c46e721.js.map": "/Politinfo/static/js/main.7c46e721.js.map",
+    "main.4fd3fe18.css.map": "/Politinfo/static/css/main.4fd3fe18.css.map",
+    "main.ddc16117.js.map": "/Politinfo/static/js/main.ddc16117.js.map",
     "787.bc7d429a.chunk.js.map": "/Politinfo/static/js/787.bc7d429a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.df6cdaf1.css",
-    "static/js/main.7c46e721.js"
+    "static/css/main.4fd3fe18.css",
+    "static/js/main.ddc16117.js"
   ]
 }
